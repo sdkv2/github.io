@@ -1,3 +1,5 @@
 remote_theme: creative-theme-jekyll
 title: [Pomegranates.live]
 description: [Pomegranates and stuff]
+
+theme: jekyll-theme-cayman
