@@ -1,2 +1,2 @@
 # Hello!
-{% include /assets/messanger.js %}
+<script src="/assets/messanger.js"></script>
