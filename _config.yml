@@ -3,4 +3,3 @@ title: [Pomegranates.live]
 description: [Pomegranates and stuff]
 
 theme: jekyll-theme-cayman
-{% include /assets/messanger.js %}
